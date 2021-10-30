@@ -1,0 +1,18 @@
+body{
+  font-size: medium;
+  background: honeydew;
+}
+
+h3{
+  background: rgba(230, 141, 252, 0.884);
+  border: 5px double rgb(174, 13, 248);
+  margin: 20px;
+  width: 500px;
+  text-align: center;
+}
+
+canvas{
+  background: rgb(197, 241, 255);
+  border: 8px ridge rgb(49, 214, 243);
+  margin: 20px;
+}
